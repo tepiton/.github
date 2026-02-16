@@ -1,0 +1,2 @@
+# .github
+A small thing
