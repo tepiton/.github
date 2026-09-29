@@ -27,6 +27,9 @@ A service business landing page template built with Eleventy v3: a section-compo
 ### [pandoc-simple](https://github.com/tepiton/pandoc-simple)  [•](https://tepiton.com/pandoc-simple/)
 A pandoc-based single-page Markdown site with no SSG toolchain.
 
+### [pandoc-resume](https://github.com/tepiton/pandoc-resume)  [•](https://tepiton.com/pandoc-resume/)
+A resume site built from one Markdown file. A GitHub Action renders it to HTML, PDF, DOCX, and plain text, and publishes them behind an index page with your name, objective, and contact details.
+
 ### [mimeo](https://github.com/tepiton/mimeo) [•](https://mimeo.lol/)
 Placeholder template that shows the `s i t e n a m e`
 
